@@ -42,6 +42,12 @@ To run the frontend part of our code, we will use the Angular CLI:
 
 The application is visible at port 4200: [http://localhost:4200](http://localhost:4200)
 
+To install all the dependencies you can try to use the following command.
+
+    npm ci
+
+Node will install the correct version of each package.
+
 # Other Courses
 
 # Angular Forms In Depth
